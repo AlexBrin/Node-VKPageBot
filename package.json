@@ -1,0 +1,11 @@
+{
+  "name": "NodeVK",
+  "version": "0.0.1",
+  "author": "AlexBrin",
+  "scripts": {
+    "dev": "nodemon start.js"
+  },
+  "dependencies": {
+    "VK-Promise": "^0.2.91"
+  }
+}
